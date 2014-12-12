@@ -9,8 +9,16 @@ Producing maps to accompany the Timor-Leste AMP geocoded data release. These map
 
 ####Aggregate Illiteracy Fields
 
-Fields follow this format: 
->x_tot_ill
->x_male_ill
+aggregate fields follow this format: 
+
+x_tot_ill
+x_male_ill
+
+where x represents a one letter language code 
+* b = bahasa
+* e = english
+* t = tetun
+* p = portuguese
+
 
 
