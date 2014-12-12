@@ -12,6 +12,8 @@ Producing maps to accompany the Timor-Leste AMP geocoded data release. These map
 aggregate fields follow this format: 
 
 x_tot_ill
+
+and
 x_male_ill
 
 where x represents a one letter language code 
