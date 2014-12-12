@@ -6,7 +6,7 @@ Producing maps to accompany the Timor-Leste AMP geocoded data release. These map
 ####ADM2 divisions (subdistricts)
 
 * 65 subsistricts in the timor census tables
-* matched to festure ids in gaul boundaries (2004-2013)
+* matched to feature ids in gaul boundaries (2004-2013)
 
 ####Aggregate Illiteracy Fields
 
