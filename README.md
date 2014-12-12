@@ -5,6 +5,6 @@ Producing maps to accompany the Timor-Leste AMP geocoded data release. These map
 
 ###ADM divisions
 
-*65 subsistricts in the timor census tables
+**65 subsistricts in the timor census tables
 
 
