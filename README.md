@@ -13,10 +13,9 @@ aggregate fields follow this format:
 
 x_tot_ill
 
-and
 x_male_ill
 
-where x represents a one letter language code 
+where x represents a one letter language code and "tot" is a rollup of male and female for each language
 * b = bahasa
 * e = english
 * t = tetun
