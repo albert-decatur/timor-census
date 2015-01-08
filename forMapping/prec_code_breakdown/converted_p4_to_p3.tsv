@@ -1,0 +1,257 @@
+projid_geoid	project_id	proj_cnt	sector_value	year1	year2	year3	commit	comm_p_loc	geoname_id	precision_code	place_name	latitude	longitude
+87292463792_7910186	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Aileu Villa	-8.74472	125.55686
+87292463792_7910184	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Laulara	-8.62306	125.58205
+87292463792_8617903	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Lequidoe	-8.69139	125.63611
+87292463792_8617904	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Remexio	-8.61667	125.66667
+87292463792_7910186	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2010			140360	10796.92308		3	Aileu Villa	-8.74472	125.55686
+87292463792_7910184	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2010			140360	10796.92308		3	Laulara	-8.62306	125.58205
+87292463792_8617903	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2010			140360	10796.92308		3	Lequidoe	-8.69139	125.63611
+87292463792_8617904	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2010			140360	10796.92308		3	Remexio	-8.61667	125.66667
+87292463792_7910190	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Ainaro	-9.0075	125.50713
+87292463792_8617905	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Hato-Udo	-9.12036	125.58935
+87292463792_7910188	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Hatobuilico	-8.93854	125.55408
+87292463792_7910187	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Maubisse	-8.84232	125.63009
+87292611854_7910190	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Ainaro	-9.0075	125.50713
+87292611854_8617905	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Hato-Udo	-9.12036	125.58935
+87292611854_7910188	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Hatobuilico	-8.93854	125.55408
+87292611854_7910187	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Maubisse	-8.84232	125.63009
+87292191431_8617910	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Baguia	-8.62787	126.65743
+87292191431_8617908	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Baucau	-8.46667	126.45
+87292191431_8617911	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Laga	-8.47411	126.59228
+87292191431_8617912	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Quelicai	-8.60135	126.55904
+87292191431_8617914	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Vemasse	-8.51036	126.20823
+87292191431_8617918	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Venilale	-8.58238	126.37861
+87292361446_8617910	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Baguia	-8.62787	126.65743
+87292361446_8617908	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Baucau	-8.46667	126.45
+87292361446_8617911	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Laga	-8.47411	126.59228
+87292361446_8617912	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Quelicai	-8.60135	126.55904
+87292361446_8617914	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Vemasse	-8.51036	126.20823
+87292361446_8617918	87292361446	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			13000000	4333333.333		3	Venilale	-8.58238	126.37861
+87292411772_8617910	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Baguia	-8.62787	126.65743
+87292411772_8617908	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Baucau	-8.46667	126.45
+87292411772_8617911	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Laga	-8.47411	126.59228
+87292411772_8617912	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Quelicai	-8.60135	126.55904
+87292411772_8617914	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Vemasse	-8.51036	126.20823
+87292411772_8617918	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Venilale	-8.58238	126.37861
+87292463792_8617910	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Baguia	-8.62787	126.65743
+87292463792_8617908	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Baucau	-8.46667	126.45
+87292463792_8617911	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Laga	-8.47411	126.59228
+87292463792_8617912	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Quelicai	-8.60135	126.55904
+87292463792_8617914	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Vemasse	-8.51036	126.20823
+87292463792_8617918	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Venilale	-8.58238	126.37861
+87292511668_8617910	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Baguia	-8.62787	126.65743
+87292511668_8617908	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Baucau	-8.46667	126.45
+87292511668_8617911	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Laga	-8.47411	126.59228
+87292511668_8617912	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Quelicai	-8.60135	126.55904
+87292511668_8617914	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Vemasse	-8.51036	126.20823
+87292511668_8617918	87292511668	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Venilale	-8.58238	126.37861
+87292611854_8617910	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Baguia	-8.62787	126.65743
+87292611854_8617908	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Baucau	-8.46667	126.45
+87292611854_8617911	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Laga	-8.47411	126.59228
+87292611854_8617912	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Quelicai	-8.60135	126.55904
+87292611854_8617914	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Vemasse	-8.51036	126.20823
+87292611854_8617918	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Venilale	-8.58238	126.37861
+87292463792_8617807	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Atabae	-8.80954	125.1585
+87292463792_8617808	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Balibo	-8.97145	125.043
+87292463792_8617809	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Bobonaro	-9.03194	125.325
+87292463792_8617810	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Cailaco	-8.9	125.28
+87292463792_8617811	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Lolotoe	-9.16667	125.26667
+87292463792_8617768	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Maliana	-8.98333	125.21667
+87292611854_8617807	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Atabae	-8.80954	125.1585
+87292611854_8617808	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Balibo	-8.97145	125.043
+87292611854_8617809	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Bobonaro	-9.03194	125.325
+87292611854_8617810	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Cailaco	-8.9	125.28
+87292611854_8617811	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Lolotoe	-9.16667	125.26667
+87292611854_8617768	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Maliana	-8.98333	125.21667
+87292463792_1944042	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Fatululik	-9.19083	125.13194
+87292463792_8628962	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Fatumean	-9.22917	125.03583
+87292463792_8630092	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Fohorem	-9.28361	125.08944
+87292463792_8629258	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Maucatar	-9.21772	125.22981
+87292463792_8628955	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Suai	-9.3	125.25
+87292463792_8629259	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Tilomar	-9.34182	125.10887
+87292463792_8617824	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Zumalai	-9.1575	125.45056
+87292611854_1944042	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Fatululik	-9.19083	125.13194
+87292611854_8628962	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Fatumean	-9.22917	125.03583
+87292611854_8630092	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Fohorem	-9.28361	125.08944
+87292611854_8629258	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Maucatar	-9.21772	125.22981
+87292611854_8628955	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Suai	-9.3	125.25
+87292611854_8629259	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Tilomar	-9.34182	125.10887
+87292611854_8617824	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Zumalai	-9.1575	125.45056
+87292191181_8629261	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Atauro	-8.26785	125.59699
+87292191181_8617681	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Cristo Rei	-8.52047	125.60837
+87292191181_8617769	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Dom Aleixo	-8.54667	125.52472
+87292191181_8629263	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Metinaro	-8.53315	125.75089
+87292191181_8629287	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Moro	-8.35889	126.92591
+87292191181_8629966	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Nain Feto	-8.56	125.58778
+87292191181_7910183	87292191181	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""11110 - Education policy and administrative management""}]"	2010			18000	18000		3	Vera Cruz	-8.59239	125.56299
+87292191427_8629261	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Atauro	-8.26785	125.59699
+87292191427_8617681	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Cristo Rei	-8.52047	125.60837
+87292191427_8617769	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Dom Aleixo	-8.54667	125.52472
+87292191427_8629263	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Metinaro	-8.53315	125.75089
+87292191427_8629287	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Moro	-8.35889	126.92591
+87292191427_8629966	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Nain Feto	-8.56	125.58778
+87292191427_7910183	87292191427	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			731925.11	731925.11		3	Vera Cruz	-8.59239	125.56299
+87292191431_8629261	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Atauro	-8.26785	125.59699
+87292191431_8617681	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Cristo Rei	-8.52047	125.60837
+87292191431_8617769	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Dom Aleixo	-8.54667	125.52472
+87292191431_8629263	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Metinaro	-8.53315	125.75089
+87292191431_8629287	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Moro	-8.35889	126.92591
+87292191431_8629966	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Nain Feto	-8.56	125.58778
+87292191431_7910183	87292191431	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Vera Cruz	-8.59239	125.56299
+87292391559_8629261	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Atauro	-8.26785	125.59699
+87292391559_8617681	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Cristo Rei	-8.52047	125.60837
+87292391559_8617769	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Dom Aleixo	-8.54667	125.52472
+87292391559_8629263	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Metinaro	-8.53315	125.75089
+87292391559_8629287	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Moro	-8.35889	126.92591
+87292391559_8629966	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Nain Feto	-8.56	125.58778
+87292391559_7910183	87292391559	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2011			3221442.98	3221442.98		3	Vera Cruz	-8.59239	125.56299
+87292411772_8629261	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Atauro	-8.26785	125.59699
+87292411772_8617681	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Cristo Rei	-8.52047	125.60837
+87292411772_8617769	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Dom Aleixo	-8.54667	125.52472
+87292411772_8629263	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Metinaro	-8.53315	125.75089
+87292411772_8629287	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Moro	-8.35889	126.92591
+87292411772_8629966	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Nain Feto	-8.56	125.58778
+87292411772_7910183	87292411772	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Vera Cruz	-8.59239	125.56299
+87292463792_8629261	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Atauro	-8.26785	125.59699
+87292463792_8617681	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Cristo Rei	-8.52047	125.60837
+87292463792_8617769	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Dom Aleixo	-8.54667	125.52472
+87292463792_8629263	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Metinaro	-8.53315	125.75089
+87292463792_8629287	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Moro	-8.35889	126.92591
+87292463792_8629966	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Nain Feto	-8.56	125.58778
+87292463792_7910183	87292463792	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Vera Cruz	-8.59239	125.56299
+87292481796_8629261	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Atauro	-8.26785	125.59699
+87292481796_8617681	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Cristo Rei	-8.52047	125.60837
+87292481796_8617769	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Dom Aleixo	-8.54667	125.52472
+87292481796_8629263	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Metinaro	-8.53315	125.75089
+87292481796_8629287	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Moro	-8.35889	126.92591
+87292481796_8629966	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Nain Feto	-8.56	125.58778
+87292481796_7910183	87292481796	7	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11430 - Advanced technical and managerial training""}]"	2013			726237.3	726237.3		3	Vera Cruz	-8.59239	125.56299
+87292511668_8629261	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Atauro	-8.26785	125.59699
+87292511668_8617681	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Cristo Rei	-8.52047	125.60837
+87292511668_8617769	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Dom Aleixo	-8.54667	125.52472
+87292511668_8629263	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Metinaro	-8.53315	125.75089
+87292511668_8629287	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Moro	-8.35889	126.92591
+87292511668_8629966	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Nain Feto	-8.56	125.58778
+87292511668_7910183	87292511668	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Vera Cruz	-8.59239	125.56299
+87292611765_8629261	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Atauro	-8.26785	125.59699
+87292611765_8617681	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Cristo Rei	-8.52047	125.60837
+87292611765_8617769	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Dom Aleixo	-8.54667	125.52472
+87292611765_8629263	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Metinaro	-8.53315	125.75089
+87292611765_8629287	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Moro	-8.35889	126.92591
+87292611765_8629966	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Nain Feto	-8.56	125.58778
+87292611765_7910183	87292611765	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			2832955	2832955		3	Vera Cruz	-8.59239	125.56299
+87292611854_8629261	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Atauro	-8.26785	125.59699
+87292611854_8617681	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Cristo Rei	-8.52047	125.60837
+87292611854_8617769	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Dom Aleixo	-8.54667	125.52472
+87292611854_8629263	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Metinaro	-8.53315	125.75089
+87292611854_8629287	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Moro	-8.35889	126.92591
+87292611854_8629966	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Nain Feto	-8.56	125.58778
+87292611854_7910183	87292611854	7	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Vera Cruz	-8.59239	125.56299
+87292191431_8617853	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Atsabe	-8.93058	125.3968
+87292191431_8617931	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Ermera Villa	-8.75222	125.39694
+87292191431_8617772	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Gleno	-8.72389	125.43611
+87292191431_8629076	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Hatulia	-8.81667	125.31667
+87292191431_8628960	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Letefoho	-8.83444	125.42639
+87292191431_8617920	87292191431	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Railaco	-8.67237	125.42546
+87292411772_8617853	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Atsabe	-8.93058	125.3968
+87292411772_8617931	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Ermera Villa	-8.75222	125.39694
+87292411772_8617772	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Gleno	-8.72389	125.43611
+87292411772_8629076	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Hatulia	-8.81667	125.31667
+87292411772_8628960	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Letefoho	-8.83444	125.42639
+87292411772_8617920	87292411772	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Railaco	-8.67237	125.42546
+87292411774_8617853	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Atsabe	-8.93058	125.3968
+87292411774_8617931	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Ermera Villa	-8.75222	125.39694
+87292411774_8617772	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Gleno	-8.72389	125.43611
+87292411774_8629076	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Hatulia	-8.81667	125.31667
+87292411774_8628960	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Letefoho	-8.83444	125.42639
+87292411774_8617920	87292411774	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			221742.08	221742.08		3	Railaco	-8.67237	125.42546
+87292463792_8617853	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Atsabe	-8.93058	125.3968
+87292463792_8617931	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Ermera Villa	-8.75222	125.39694
+87292463792_8617772	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Gleno	-8.72389	125.43611
+87292463792_8629076	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Hatulia	-8.81667	125.31667
+87292463792_8628960	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Letefoho	-8.83444	125.42639
+87292463792_8617920	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Railaco	-8.67237	125.42546
+87292611854_8617853	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Atsabe	-8.93058	125.3968
+87292611854_8617931	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Ermera Villa	-8.75222	125.39694
+87292611854_8617772	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Gleno	-8.72389	125.43611
+87292611854_8629076	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Hatulia	-8.81667	125.31667
+87292611854_8628960	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Letefoho	-8.83444	125.42639
+87292611854_8617920	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Railaco	-8.67237	125.42546
+87292463792_8617923	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Iliomar	-8.70917	126.82833
+87292463792_8617922	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Lautem	-8.36514	126.90389
+87292463792_8629266	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Lospalos	-8.51821	126.9956
+87292463792_8629267	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Luro	-8.54359	126.83003
+87292463792_8618007	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Tutuala	-8.39597	127.25923
+87292511668_8617923	87292511668	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Iliomar	-8.70917	126.82833
+87292511668_8617922	87292511668	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Lautem	-8.36514	126.90389
+87292511668_8629266	87292511668	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Lospalos	-8.51821	126.9956
+87292511668_8629267	87292511668	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Luro	-8.54359	126.83003
+87292511668_8618007	87292511668	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2012			3020000	1006666.667		3	Tutuala	-8.39597	127.25923
+87292611854_8617923	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Iliomar	-8.70917	126.82833
+87292611854_8617922	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Lautem	-8.36514	126.90389
+87292611854_8629266	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Lospalos	-8.51821	126.9956
+87292611854_8629267	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Luro	-8.54359	126.83003
+87292611854_8618007	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Tutuala	-8.39597	127.25923
+87292463792_8617925	87292463792	3	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Bazartete	-8.62464	125.38168
+87292463792_8617827	87292463792	3	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Liquiçá	-8.58333	125.35
+87292463792_8617828	87292463792	3	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Maubara	-8.61667	125.2
+87292505417_8617925	87292505417	3	"[{""sector"":""400 - MULTISECTOR/CROSS-CUTTING"",""subsector"":""410 - General environmental protection"",""subsubsector"":""41081 - Environmental education/ training""}]"	2013			8500	8500		3	Bazartete	-8.62464	125.38168
+87292505417_8617827	87292505417	3	"[{""sector"":""400 - MULTISECTOR/CROSS-CUTTING"",""subsector"":""410 - General environmental protection"",""subsubsector"":""41081 - Environmental education/ training""}]"	2013			8500	8500		3	Liquiçá	-8.58333	125.35
+87292505417_8617828	87292505417	3	"[{""sector"":""400 - MULTISECTOR/CROSS-CUTTING"",""subsector"":""410 - General environmental protection"",""subsubsector"":""41081 - Environmental education/ training""}]"	2013			8500	8500		3	Maubara	-8.61667	125.2
+87292611854_8617925	87292611854	3	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Bazartete	-8.62464	125.38168
+87292611854_8617827	87292611854	3	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Liquiçá	-8.58333	125.35
+87292611854_8617828	87292611854	3	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Maubara	-8.61667	125.2
+87292455338_8617857	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Barique	-8.85472	126.06556
+87292455338_8629130	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Laclo	-8.55	125.91667
+87292455338_8618004	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Laclubar	-8.74975	125.91186
+87292455338_8628948	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Laleia	-8.53333	126.16667
+87292455338_8618003	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Manatuto	-8.52207	126.01516
+87292455338_8628961	87292455338	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""111 - Education, level unspecified"",""subsubsector"":""}]"	2011			10520.39	5260.195		3	Soibada	-8.86	125.94
+87292463792_8617857	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Barique	-8.85472	126.06556
+87292463792_8629130	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Laclo	-8.55	125.91667
+87292463792_8618004	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Laclubar	-8.74975	125.91186
+87292463792_8628948	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Laleia	-8.53333	126.16667
+87292463792_8618003	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Manatuto	-8.52207	126.01516
+87292463792_8628961	87292463792	6	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Soibada	-8.86	125.94
+87292611854_8617857	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Barique	-8.85472	126.06556
+87292611854_8629130	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Laclo	-8.55	125.91667
+87292611854_8618004	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Laclubar	-8.74975	125.91186
+87292611854_8628948	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Laleia	-8.53333	126.16667
+87292611854_8618003	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Manatuto	-8.52207	126.01516
+87292611854_8628961	87292611854	6	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Soibada	-8.86	125.94
+87292463792_8618005	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Alas	-9.0273	125.7868
+87292463792_8629268	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Fatuberliu	-8.9479	125.86633
+87292463792_8628952	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Same	-9	125.65
+87292463792_8629269	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Turiscai	-8.82371	125.70454
+87292611854_8618005	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Alas	-9.0273	125.7868
+87292611854_8629268	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Fatuberliu	-8.9479	125.86633
+87292611854_8628952	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Same	-9	125.65
+87292611854_8629269	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Turiscai	-8.82371	125.70454
+87292463792_8628963	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Nitibe	-9.34796	124.23333
+87292463792_8628965	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Oesilo	-9.36667	124.35
+87292463792_8629270	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Pante Makasar	-9.20022	124.38081
+87292463792_8628964	87292463792	4	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Passabe	-9.36417	124.34333
+87292611854_8628963	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Nitibe	-9.34796	124.23333
+87292611854_8628965	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Oesilo	-9.36667	124.35
+87292611854_8629270	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Pante Makasar	-9.20022	124.38081
+87292611854_8628964	87292611854	4	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Passabe	-9.36417	124.34333
+87292191431_8628957	87292191431	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Lacluta	-8.8	126.13333
+87292191431_8618034	87292191431	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Ossu	-8.73477	126.38324
+87292191431_8629273	87292191431	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Uatocarabau	-8.75658	126.6806
+87292191431_8629272	87292191431	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Uatolari	-8.76277	126.57353
+87292191431_8629271	87292191431	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			176594.15	44148.5375		3	Viqueque	-8.85908	126.36972
+87292411772_8628957	87292411772	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Lacluta	-8.8	126.13333
+87292411772_8618034	87292411772	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Ossu	-8.73477	126.38324
+87292411772_8629273	87292411772	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Uatocarabau	-8.75658	126.6806
+87292411772_8629272	87292411772	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Uatolari	-8.76277	126.57353
+87292411772_8629271	87292411772	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			227629.04	56907.26		3	Viqueque	-8.85908	126.36972
+87292463792_8628957	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Lacluta	-8.8	126.13333
+87292463792_8618034	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Ossu	-8.73477	126.38324
+87292463792_8629273	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Uatocarabau	-8.75658	126.6806
+87292463792_8629272	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Uatolari	-8.76277	126.57353
+87292463792_8629271	87292463792	5	"[{""sector"":""110 - EDUCATION"",""subsector"":""114 - Post-secondary education"",""subsubsector"":""11420 - Higher education""}]"	2012			6556048	504311.3846		3	Viqueque	-8.85908	126.36972
+87292611854_8628957	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Lacluta	-8.8	126.13333
+87292611854_8618034	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Ossu	-8.73477	126.38324
+87292611854_8629273	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Uatocarabau	-8.75658	126.6806
+87292611854_8629272	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Uatolari	-8.76277	126.57353
+87292611854_8629271	87292611854	5	"[{""sector"":""110 - EDUCATION"",""subsector"":"",""subsubsector"":""}]"	2010			140360	10796.92308		3	Viqueque	-8.85908	126.36972
