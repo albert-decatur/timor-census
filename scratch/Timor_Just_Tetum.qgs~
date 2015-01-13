@@ -5,9 +5,9 @@
     <mapcanvas>
         <units>degrees</units>
         <extent>
-            <xmin>124.62017538434218977</xmin>
+            <xmin>124.48219849850012508</xmin>
             <ymin>-9.65894082635354323</ymin>
-            <xmax>127.3984688334539328</xmax>
+            <xmax>127.53644571929599749</xmax>
             <ymax>-8.09000112585708564</ymax>
         </extent>
         <projections>1</projections>
@@ -57,7 +57,7 @@
             </filegroup>
         </legendlayer>
     </legend>
-    <Composer title="timor_literacy" visible="1">
+    <Composer title="timor_literacy" visible="0">
         <Composition snapGridTolerance="2" gridVisible="0" printResolution="400" paperWidth="296.93" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="135" alignmentSnapTolerance="2" smartGuides="1" printAsRaster="0" generateWorldFile="0">
             <symbol alpha="1" type="fill" name="">
                 <layer pass="0" class="SimpleFill" locked="0">
@@ -176,7 +176,7 @@
             </ComposerMap>
         </Composition>
     </Composer>
-    <Composer title="timor_education_aid" visible="1">
+    <Composer title="timor_education_aid" visible="0">
         <Composition snapGridTolerance="2" gridVisible="0" printResolution="400" paperWidth="296.93" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="135" alignmentSnapTolerance="2" smartGuides="1" printAsRaster="0" generateWorldFile="0">
             <symbol alpha="1" type="fill" name="">
                 <layer pass="0" class="SimpleFill" locked="0">

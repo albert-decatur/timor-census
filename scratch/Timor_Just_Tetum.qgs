@@ -6,9 +6,9 @@
         <units>degrees</units>
         <extent>
             <xmin>124.48219849850012508</xmin>
-            <ymin>-9.65894082635354323</ymin>
+            <ymin>-9.68965801604085186</ymin>
             <xmax>127.53644571929599749</xmax>
-            <ymax>-8.09000112585708564</ymax>
+            <ymax>-8.05928393616977701</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
